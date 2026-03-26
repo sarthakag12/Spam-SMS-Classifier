@@ -1,0 +1,6 @@
+1.Numpy
+2.Pandas
+3.sklearn
+4.nltk
+5.streamlit
+6.pickle
